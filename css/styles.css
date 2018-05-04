@@ -1,12 +1,10 @@
 body {
-  overflow: hidden;
-  overflow-y: scroll;
+  background-image: url(../img/Assassin.jpg);
+  background-size: cover;
 }
 .imgs {
-  background-image: url(../img/Assassin.jpg);
-  height: 1200px;
+  height: 0px;
   width: 100%;
-  background-size: cover;
 }
 .containe {
   font-family: sans-serif;
@@ -19,6 +17,10 @@ body {
   height: 400px;
 
 }
+input[type-=text]{
+  color: black;
+}
+
 .logo {
   padding-top: 40px;
   margin-left: 50px;
@@ -34,10 +36,13 @@ body {
   width: 50%;
   margin-left: 200px;
   background-color: #474545;
-  margin-top: 50px;
+  margin-top: 50px
 }
 .btnbtn {
   background-color: #474545;
   width: 20%;
   margin-left: 480px;
+}
+.well {
+  background-color: rgba(100, 100, 100, 0.5);
 }
