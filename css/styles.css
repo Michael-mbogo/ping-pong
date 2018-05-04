@@ -1,0 +1,43 @@
+body {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.imgs {
+  background-image: url(../img/Assassin.jpg);
+  height: 1200px;
+  width: 100%;
+  background-size: cover;
+}
+.containe {
+  font-family: sans-serif;
+  color: silver;
+  font-size: 20px;
+}
+.rules {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  height: 400px;
+
+}
+.logo {
+  padding-top: 40px;
+  margin-left: 50px;
+}
+.list {
+  font-family: cursive;
+  color: #82100B;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-left: 60px;
+}
+.form-control {
+  width: 50%;
+  margin-left: 200px;
+  background-color: #474545;
+  margin-top: 50px;
+}
+.btnbtn {
+  background-color: #474545;
+  width: 20%;
+  margin-left: 480px;
+}
