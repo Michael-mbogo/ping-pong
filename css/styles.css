@@ -13,8 +13,8 @@ body {
 }
 .rules {
   margin-left: 50px;
-  margin-bottom: 0px;
-  height: 400px;
+  margin-bottom: 20px;
+  height: 200px;
 }
 
 
@@ -27,7 +27,8 @@ body {
   color: #82100B;
   font-weight: bolder;
   font-size: 30px;
-  margin-left: 60px;
+  margin-left: 50px;
+  margin-top: 50px;
 }
 .form-control {
   width: 50%;
@@ -42,4 +43,13 @@ body {
 }
 .well {
   background-color: rgba(100, 100, 100, 0.5);
+}
+#click {
+  background-color: rgba(100, 100, 100, 0.0);
+  padding-top: 0px;
+  border-color: rgba(100, 100, 100, 0.0);
+  border-width: thin;
+  margin-left: 400px;
+  margin-bottom: 170px;
+
 }
