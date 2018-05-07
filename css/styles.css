@@ -12,9 +12,9 @@ body {
   font-size: 20px;
 }
 .rules {
-  margin-left: 50px;
-  margin-bottom: 20px;
-  height: 200px;
+  margin-left: 30px;
+  margin-bottom: 40px;
+  height: 100px;
 }
 
 
@@ -28,10 +28,10 @@ body {
   font-weight: bolder;
   font-size: 30px;
   margin-left: 50px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 .form-control {
-  width: 50%;
+  width: 80%;
   margin-left: 200px;
   background-color: rgba(100, 100, 100, 0.5);
   margin-top: 50px
@@ -43,6 +43,7 @@ body {
 }
 .well {
   background-color: rgba(100, 100, 100, 0.5);
+  width: 100%;
 }
 #click {
   background-color: rgba(100, 100, 100, 0.0);
@@ -51,5 +52,18 @@ body {
   border-width: thin;
   margin-left: 400px;
   margin-bottom: 170px;
+}
+#owner {
+  margin-left: 150px;
+  margin-top: 40px;
+}
+#owner:hover {
+  font-size: 20px;
+  font-variant: small-caps;
+}
+.play {
+  font-family: cursive;
+  color: #82100B;
 
+  font-size: 30px;
 }
